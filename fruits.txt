@@ -3,3 +3,5 @@ bananas
 cherries
 grapes
 apples
+kiwi 
+papaya
