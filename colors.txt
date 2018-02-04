@@ -1,2 +1,4 @@
 white
 black
+red 
+blue
